@@ -1,0 +1,468 @@
+crime_type,location,victim_gender,victim_age,perpetrator_gender,perpetrator_age,weapon,injury
+Assault,Jayanagar,Other,31,Male,52,Blunt Object,Minor
+Forgery,Indiranagar,Other,33,Male,37,Blunt Object,Fatal
+Embezzlement,Indiranagar,Female,57,Female,45,Knife,Minor
+Robbery,Bellandur,Female,51,Female,25,Blunt Object,Minor
+Embezzlement,Koramangala,Male,69,Male,19,None,None
+Theft,Koramangala,Other,50,Male,35,Knife,Minor
+Robbery,Yelahanka,Male,61,Male,44,None,Fatal
+Fraud,Bellandur,Male,49,Other,56,Blunt Object,Fatal
+Forgery,Whitefield,Female,30,Male,44,Gun,None
+Theft,Bellandur,Female,53,Female,47,Gun,Fatal
+Fraud,Bellandur,Other,60,Other,53,Gun,Fatal
+Theft,Jayanagar,Male,67,Male,32,None,Major
+Theft,Whitefield,Other,32,Male,23,Knife,Major
+Burglary,Bellandur,Male,22,Male,65,Gun,Fatal
+Drug Offense,JP Nagar,Other,44,Female,48,None,Fatal
+Robbery,Electronic City,Male,58,Male,65,Knife,Minor
+Embezzlement,Bellandur,Female,65,Male,62,Gun,Minor
+Embezzlement,Kamakshipalya,Female,53,Female,43,Gun,Minor
+Robbery,Whitefield,Female,59,Male,34,Gun,Fatal
+Vandalism,Electronic City,Female,20,Male,48,None,Minor
+Burglary,Yelahanka,Female,53,Male,49,Blunt Object,None
+Robbery,Banashankari,Female,42,Female,59,Blunt Object,Minor
+Burglary,Banashankari,Male,44,Female,51,Blunt Object,None
+Vandalism,Yelahanka,Male,53,Other,59,Gun,None
+Robbery,Koramangala,Male,52,Other,66,Knife,Minor
+Burglary,Koramangala,Other,20,Other,64,None,None
+Forgery,JP Nagar,Male,43,Male,37,Gun,Fatal
+Burglary,Bellandur,Male,49,Other,37,None,Minor
+Embezzlement,Indiranagar,Male,26,Female,52,Knife,None
+Drug Offense,Jayanagar,Other,18,Female,21,None,Major
+Drug Offense,Bellandur,Male,21,Female,64,Gun,Minor
+Drug Offense,Jayanagar,Female,64,Female,65,Knife,Minor
+Fraud,Indiranagar,Male,31,Male,66,None,Minor
+Theft,Koramangala,Other,53,Male,57,Gun,Minor
+Drug Offense,Jayanagar,Female,32,Female,50,Blunt Object,None
+Assault,JP Nagar,Male,55,Female,49,Blunt Object,None
+Embezzlement,Bellandur,Other,43,Female,29,Knife,Major
+Drug Offense,Bellandur,Other,29,Male,65,None,None
+Assault,Jayanagar,Other,42,Other,28,Knife,Minor
+Burglary,Kamakshipalya,Female,56,Female,59,Gun,Major
+Burglary,Banashankari,Other,34,Female,39,None,Major
+Drug Offense,JP Nagar,Female,47,Other,38,Gun,Minor
+Robbery,Kamakshipalya,Other,32,Male,22,Knife,Minor
+Forgery,Jayanagar,Other,51,Female,40,Blunt Object,Major
+Assault,Jayanagar,Male,27,Male,53,None,Fatal
+Burglary,Electronic City,Female,28,Female,55,Gun,Minor
+Fraud,JP Nagar,Other,49,Female,27,Gun,Fatal
+Robbery,Whitefield,Female,35,Female,37,Knife,Major
+Drug Offense,Electronic City,Female,35,Male,20,Gun,Major
+Vandalism,Banashankari,Female,18,Male,63,Knife,Minor
+Robbery,Kamakshipalya,Female,51,Female,47,Blunt Object,Major
+Embezzlement,Kamakshipalya,Male,58,Male,51,Knife,Fatal
+Fraud,Koramangala,Female,60,Female,36,Gun,Major
+Embezzlement,HSR Layout,Other,28,Female,28,Blunt Object,Major
+Vandalism,HSR Layout,Other,55,Female,21,Knife,None
+Embezzlement,Indiranagar,Other,36,Female,46,Gun,Major
+Burglary,Kamakshipalya,Female,21,Female,38,Gun,Major
+Assault,Yelahanka,Other,58,Female,28,None,Fatal
+Drug Offense,Bellandur,Male,29,Female,52,None,Major
+Drug Offense,Electronic City,Other,36,Other,47,None,None
+Robbery,Whitefield,Male,19,Male,57,None,None
+Vandalism,Marathahalli,Male,48,Other,35,Gun,None
+Drug Offense,Yelahanka,Female,51,Male,37,Gun,Fatal
+Fraud,HSR Layout,Female,38,Male,35,Gun,Major
+Forgery,Indiranagar,Other,36,Other,57,Blunt Object,None
+Burglary,Banashankari,Female,53,Male,27,Knife,Major
+Forgery,Koramangala,Male,45,Other,27,None,Minor
+Drug Offense,Electronic City,Male,37,Male,56,None,Minor
+Embezzlement,JP Nagar,Female,60,Female,57,Knife,None
+Drug Offense,Koramangala,Female,19,Other,22,Gun,Major
+Robbery,HSR Layout,Female,47,Female,27,Gun,Minor
+Fraud,Bellandur,Female,48,Other,65,Gun,Fatal
+Assault,Kamakshipalya,Other,61,Male,34,Blunt Object,Major
+Theft,Indiranagar,Female,31,Female,19,Knife,Minor
+Vandalism,Yelahanka,Female,57,Other,52,Gun,Major
+Robbery,Yelahanka,Other,42,Other,51,Knife,Fatal
+Assault,Jayanagar,Other,49,Other,50,Gun,None
+Forgery,JP Nagar,Male,45,Male,29,Blunt Object,Major
+Forgery,Electronic City,Other,43,Male,44,Blunt Object,Minor
+Theft,Banashankari,Male,21,Other,61,Blunt Object,Major
+Fraud,Koramangala,Other,54,Female,25,Knife,Fatal
+Burglary,Bellandur,Female,31,Male,48,Gun,Fatal
+Robbery,Jayanagar,Male,35,Male,18,Gun,Major
+Embezzlement,Yelahanka,Female,41,Female,65,None,Major
+Fraud,Indiranagar,Male,64,Male,56,Blunt Object,Major
+Drug Offense,Whitefield,Other,50,Female,29,Knife,Minor
+Assault,Indiranagar,Male,49,Male,45,Blunt Object,Fatal
+Drug Offense,Banashankari,Female,30,Male,21,Blunt Object,Fatal
+Assault,Marathahalli,Other,45,Female,34,None,Major
+Drug Offense,Jayanagar,Other,35,Male,60,Blunt Object,Minor
+Robbery,Kamakshipalya,Male,26,Female,53,Knife,Major
+Embezzlement,JP Nagar,Male,54,Female,60,None,Minor
+Fraud,HSR Layout,Female,45,Other,45,Gun,None
+Forgery,HSR Layout,Male,62,Male,31,Gun,Minor
+Robbery,Jayanagar,Female,19,Male,40,Knife,Fatal
+Fraud,Bellandur,Male,29,Male,60,Blunt Object,Minor
+Forgery,Indiranagar,Male,48,Female,31,None,Major
+Burglary,Koramangala,Female,23,Male,22,Knife,Minor
+Theft,Bellandur,Female,52,Female,54,Blunt Object,Fatal
+Robbery,Yelahanka,Male,55,Female,45,None,Major
+Robbery,Yelahanka,Male,55,Female,45,None,Major
+Burglary,Banashankari,Other,57,Male,42,Blunt Object,None
+Burglary,Yelahanka,Female,39,Female,39,Blunt Object,Minor
+Fraud,HSR Layout,Male,34,Male,37,Blunt Object,Fatal
+Burglary,Marathahalli,Other,26,Other,47,None,None
+Robbery,Bellandur,Female,55,Other,19,None,Fatal
+Burglary,JP Nagar,Female,35,Other,49,Knife,None
+Embezzlement,HSR Layout,Male,61,Female,64,Knife,Fatal
+Vandalism,HSR Layout,Male,45,Male,43,Gun,Fatal
+Vandalism,Banashankari,Male,53,Female,61,Gun,Minor
+Assault,Banashankari,Female,34,Other,38,Gun,Fatal
+Assault,Kamakshipalya,Male,62,Female,45,Blunt Object,Minor
+Vandalism,Yelahanka,Female,24,Other,28,None,Fatal
+Forgery,Kamakshipalya,Female,59,Male,57,Gun,Fatal
+Drug Offense,JP Nagar,Male,59,Male,38,None,None
+Fraud,JP Nagar,Female,28,Other,41,None,Minor
+Forgery,HSR Layout,Other,22,Other,64,Knife,Major
+Robbery,Jayanagar,Other,54,Female,43,Blunt Object,Major
+Assault,Indiranagar,Other,62,Male,48,Blunt Object,Major
+Forgery,Bellandur,Other,63,Other,59,Gun,Major
+Drug Offense,Indiranagar,Female,60,Female,23,Knife,None
+Robbery,Banashankari,Female,53,Female,20,Gun,Minor
+Forgery,Jayanagar,Female,42,Female,23,Blunt Object,None
+Fraud,HSR Layout,Male,46,Female,39,None,None
+Embezzlement,Koramangala,Other,18,Male,20,Gun,Fatal
+Theft,Koramangala,Male,32,Other,62,Blunt Object,Minor
+Theft,Koramangala,Male,64,Other,65,Knife,None
+Theft,Kamakshipalya,Other,61,Male,20,Knife,Minor
+Forgery,JP Nagar,Female,60,Other,57,None,None
+Drug Offense,Marathahalli,Other,58,Other,48,None,Major
+Fraud,Bellandur,Female,36,Female,46,None,Fatal
+Embezzlement,Banashankari,Male,44,Male,18,Gun,Fatal
+Forgery,Banashankari,Female,25,Other,18,None,None
+Forgery,Banashankari,Other,48,Female,56,None,Fatal
+Forgery,Banashankari,Other,48,Female,56,None,Fatal
+Forgery,Whitefield,Female,45,Other,26,Blunt Object,Minor
+Assault,Electronic City,Male,49,Other,47,Blunt Object,Major
+Burglary,JP Nagar,Female,46,Other,46,Gun,Minor
+Fraud,Banashankari,Male,19,Other,32,Gun,Major
+Theft,JP Nagar,Other,34,Female,33,Knife,None
+Theft,JP Nagar,Other,34,Female,33,Knife,None
+Fraud,Yelahanka,Other,24,Male,61,None,Minor
+Drug Offense,Whitefield,Other,18,Other,30,Knife,Major
+Burglary,Electronic City,Other,38,Male,50,Knife,None
+Vandalism,Kamakshipalya,Female,55,Other,57,None,None
+Vandalism,Bellandur,Female,40,Female,50,None,Major
+Fraud,HSR Layout,Male,52,Female,32,Knife,Fatal
+Assault,Bellandur,Male,25,Female,40,Knife,Major
+Drug Offense,Jayanagar,Female,61,Other,61,Knife,Fatal
+Drug Offense,Jayanagar,Male,38,Female,33,None,Major
+Burglary,Bellandur,Other,61,Female,44,Knife,None
+Vandalism,Kamakshipalya,Female,57,Other,60,Blunt Object,Fatal
+Robbery,Marathahalli,Other,47,Male,44,None,None
+Fraud,Electronic City,Other,36,Male,37,Gun,Major
+Forgery,Koramangala,Male,43,Female,58,None,Major
+Fraud,Yelahanka,Male,43,Female,36,Blunt Object,Major
+Theft,Yelahanka,Male,35,Other,29,Knife,None
+Burglary,Whitefield,Other,43,Female,34,Blunt Object,None
+Robbery,Banashankari,Female,26,Male,25,None,Minor
+Fraud,Jayanagar,Other,29,Male,50,Blunt Object,Minor
+Assault,Kamakshipalya,Other,65,Female,60,None,Major
+Robbery,Koramangala,Male,56,Other,34,Knife,Fatal
+Robbery,Koramangala,Male,56,Other,34,Knife,Fatal
+Burglary,Koramangala,Male,62,Other,33,Knife,Major
+Burglary,Koramangala,Male,62,Other,33,Knife,Major
+Forgery,Kamakshipalya,Female,38,Other,28,Blunt Object,None
+Embezzlement,Jayanagar,Other,60,Female,23,Gun,Major
+Theft,Marathahalli,Male,44,Male,51,Knife,None
+Robbery,JP Nagar,Female,47,Male,61,Blunt Object,Fatal
+Drug Offense,HSR Layout,Other,64,Male,20,Blunt Object,None
+Burglary,Indiranagar,Male,28,Female,19,None,None
+Assault,Banashankari,Other,52,Other,30,None,None
+Vandalism,JP Nagar,Female,56,Other,54,None,Major
+Embezzlement,Whitefield,Female,30,Female,30,Gun,Fatal
+Drug Offense,JP Nagar,Female,40,Female,63,Knife,Major
+Fraud,Kamakshipalya,Male,37,Other,32,Blunt Object,None
+Theft,Electronic City,Male,26,Male,24,None,Minor
+Burglary,Whitefield,Other,18,Female,23,Blunt Object,None
+Vandalism,Indiranagar,Male,20,Other,19,Blunt Object,Major
+Drug Offense,Jayanagar,Male,23,Female,37,Gun,Major
+Fraud,HSR Layout,Female,55,Other,25,Blunt Object,Fatal
+Forgery,JP Nagar,Female,19,Other,54,Knife,Fatal
+Vandalism,Whitefield,Male,38,Female,64,Gun,None
+Robbery,Yelahanka,Male,45,Male,40,None,Major
+Fraud,Electronic City,Male,40,Male,28,Blunt Object,Minor
+Fraud,Indiranagar,Male,41,Male,62,Knife,Major
+Fraud,Yelahanka,Other,25,Male,31,Gun,Major
+Robbery,Marathahalli,Other,63,Other,54,Knife,Minor
+Fraud,JP Nagar,Male,55,Male,24,Blunt Object,None
+Vandalism,Kamakshipalya,Female,39,Female,29,None,Fatal
+Robbery,JP Nagar,Other,56,Female,57,Gun,Major
+Vandalism,Jayanagar,Other,25,Other,54,None,None
+Theft,Marathahalli,Female,48,Male,33,None,Minor
+Vandalism,HSR Layout,Other,55,Female,21,Knife,None
+Assault,Yelahanka,Other,23,Male,58,Knife,Fatal
+Vandalism,Bellandur,Other,43,Female,26,Knife,Minor
+Theft,Banashankari,Female,36,Male,37,Knife,None
+Drug Offense,Bellandur,Male,29,Female,52,None,Major
+Theft,Koramangala,Other,63,Female,32,Gun,None
+Theft,Electronic City,Male,55,Male,54,Blunt Object,None
+Theft,JP Nagar,Other,40,Other,52,Gun,None
+Robbery,Electronic City,Female,40,Male,51,Knife,Major
+Theft,Indiranagar,Other,28,Other,27,Blunt Object,Fatal
+Drug Offense,Marathahalli,Other,41,Male,55,None,Minor
+Assault,Koramangala,Male,28,Male,50,Gun,Fatal
+Vandalism,JP Nagar,Female,19,Female,34,Gun,None
+Forgery,Marathahalli,Other,22,Other,32,Gun,Fatal
+Assault,Kamakshipalya,Other,61,Male,34,Blunt Object,Major
+Forgery,Koramangala,Male,22,Other,50,Knife,Fatal
+Fraud,Marathahalli,Other,19,Male,33,Knife,Major
+Robbery,Banashankari,Other,36,Male,57,Gun,Fatal
+Robbery,Jayanagar,Male,51,Female,44,Blunt Object,Major
+Theft,Banashankari,Female,63,Other,45,Knife,Major
+Fraud,Jayanagar,Other,27,Other,37,None,None
+Vandalism,Yelahanka,Female,57,Other,52,Gun,Major
+Assault,Marathahalli,Female,61,Other,49,Gun,Fatal
+Drug Offense,Electronic City,Female,47,Female,56,Gun,None
+Assault,Jayanagar,Other,49,Other,50,Gun,None
+Assault,Banashankari,Female,56,Female,30,Knife,None
+Fraud,Koramangala,Other,54,Female,25,Knife,Fatal
+Burglary,Bellandur,Female,31,Male,48,Gun,Fatal
+Robbery,Jayanagar,Male,35,Male,18,Gun,Major
+Forgery,HSR Layout,Female,27,Male,49,Knife,None
+Vandalism,Indiranagar,Other,63,Female,26,Blunt Object,None
+Forgery,Bellandur,Other,33,Other,19,None,Minor
+Robbery,Electronic City,Female,40,Male,27,Blunt Object,Minor
+Fraud,Indiranagar,Male,64,Male,56,Blunt Object,Major
+Robbery,HSR Layout,Female,41,Male,38,Blunt Object,Major
+Burglary,Electronic City,Male,64,Male,39,Gun,Fatal
+Robbery,Kamakshipalya,Male,26,Female,53,Knife,Major
+Theft,Kamakshipalya,Male,33,Other,21,Blunt Object,Minor
+Embezzlement,Bellandur,Male,27,Female,46,None,Major
+Vandalism,Electronic City,Female,55,Female,50,None,Minor
+Robbery,JP Nagar,Other,35,Female,41,Gun,Fatal
+Theft,JP Nagar,Female,53,Other,44,Gun,Minor
+Fraud,Yelahanka,Female,21,Other,42,Gun,Major
+Burglary,Kamakshipalya,Female,57,Female,30,None,Major
+Drug Offense,Marathahalli,Male,41,Male,30,Knife,Major
+Forgery,Bellandur,Male,43,Female,38,Knife,Major
+Assault,Yelahanka,Male,43,Female,37,None,Minor
+Forgery,Bellandur,Female,65,Female,54,None,Major
+Theft,Kamakshipalya,Other,21,Male,32,None,Major
+Fraud,Yelahanka,Other,21,Male,25,None,Fatal
+Theft,HSR Layout,Other,22,Female,49,Knife,Major
+Forgery,Bellandur,Other,29,Male,21,Gun,Fatal
+Drug Offense,Indiranagar,Female,60,Female,23,Knife,None
+Theft,Koramangala,Male,25,Female,39,Blunt Object,Major
+Burglary,Yelahanka,Male,50,Male,25,Knife,Fatal
+Embezzlement,Indiranagar,Other,65,Other,21,None,None
+Fraud,Kamakshipalya,Female,26,Other,22,Blunt Object,Major
+Assault,Whitefield,Female,55,Male,55,Knife,Major
+Burglary,Indiranagar,Female,39,Female,25,Gun,None
+Robbery,Banashankari,Female,63,Female,46,Blunt Object,Minor
+Robbery,Bellandur,Other,32,Female,23,Knife,None
+Embezzlement,Kamakshipalya,Other,35,Female,56,Gun,Fatal
+Embezzlement,Banashankari,Male,49,Other,31,None,Major
+Fraud,Jayanagar,Other,29,Male,50,Blunt Object,Minor
+Theft,Marathahalli,Male,26,Other,22,None,Major
+Drug Offense,Bellandur,Male,53,Male,25,Gun,Fatal
+Assault,Kamakshipalya,Male,48,Male,64,Gun,Minor
+Drug Offense,Indiranagar,Other,37,Male,33,None,Fatal
+Fraud,Banashankari,Male,25,Other,22,Gun,Fatal
+Drug Offense,Koramangala,Other,31,Other,23,None,Minor
+Theft,Electronic City,Male,26,Male,24,None,Minor
+Assault,Banashankari,Female,59,Male,62,Blunt Object,Minor
+Forgery,Indiranagar,Male,48,Female,31,None,Major
+Embezzlement,JP Nagar,Other,36,Female,47,Gun,Fatal
+Robbery,Bellandur,Female,55,Other,19,None,Fatal
+Embezzlement,Whitefield,Male,28,Female,55,Blunt Object,Fatal
+Theft,Whitefield,Other,23,Other,33,Gun,Minor
+Forgery,Koramangala,Other,35,Female,64,Blunt Object,Major
+Theft,Marathahalli,Male,39,Other,49,Knife,Major
+Robbery,Banashankari,Female,53,Female,20,Gun,Minor
+Embezzlement,Yelahanka,Female,30,Other,49,Blunt Object,Major
+Robbery,Indiranagar,Female,36,Female,56,None,Fatal
+Forgery,Banashankari,Female,25,Other,18,None,None
+Embezzlement,Yelahanka,Male,36,Other,47,Knife,Minor
+Fraud,Banashankari,Male,19,Other,32,Gun,Major
+Forgery,Jayanagar,Female,53,Other,26,Knife,Major
+Burglary,Electronic City,Other,38,Male,50,Knife,None
+Vandalism,Bellandur,Female,40,Female,50,None,Major
+Assault,Bellandur,Male,25,Female,40,Knife,Major
+Forgery,Jayanagar,Male,56,Male,18,None,Fatal
+Burglary,Marathahalli,Male,44,Other,41,Gun,Major
+Vandalism,HSR Layout,Male,50,Other,45,None,Fatal
+Embezzlement,Kamakshipalya,Female,44,Female,31,Knife,None
+Fraud,Bellandur,Other,26,Male,31,Blunt Object,None
+Theft,Indiranagar,Male,43,Other,62,None,Major
+Assault,Banashankari,Other,52,Other,30,None,None
+Drug Offense,JP Nagar,Female,40,Female,63,Knife,Major
+Burglary,Banashankari,Other,34,Female,39,None,Major
+Vandalism,Indiranagar,Male,20,Other,19,Blunt Object,Major
+Fraud,HSR Layout,Female,55,Other,25,Blunt Object,Fatal
+Robbery,Bellandur,Female,44,Female,25,Knife,None
+Fraud,Electronic City,Male,40,Male,28,Blunt Object,Minor
+Forgery,Jayanagar,Other,51,Female,40,Blunt Object,Major
+Vandalism,Kamakshipalya,Male,43,Female,43,Knife,Major
+Vandalism,Indiranagar,Female,50,Female,25,Blunt Object,None
+Fraud,Yelahanka,Other,25,Male,31,Gun,Major
+Assault,Electronic City,Male,35,Female,44,Blunt Object,Major
+Embezzlement,Yelahanka,Male,48,Female,52,Knife,Fatal
+Theft,Yelahanka,Female,42,Female,31,None,None
+Forgery,Jayanagar,Female,45,Male,64,Knife,Minor
+Theft,Electronic City,Female,65,Female,55,Blunt Object,None
+Vandalism,Marathahalli,Other,61,Female,39,Knife,Major
+Embezzlement,Kamakshipalya,Female,31,Male,44,Blunt Object,None
+Forgery,Electronic City,Male,18,Other,41,None,Fatal
+Fraud,JP Nagar,Other,49,Female,27,Gun,Fatal
+Assault,Indiranagar,Other,43,Other,58,Knife,Major
+Drug Offense,Electronic City,Female,35,Male,20,Gun,Major
+Burglary,Koramangala,Other,27,Other,62,Knife,None
+Drug Offense,Electronic City,Male,44,Other,36,Gun,Minor
+Theft,Kamakshipalya,Female,50,Male,31,Blunt Object,Minor
+Robbery,Kamakshipalya,Female,51,Female,47,Blunt Object,Major
+Embezzlement,Electronic City,Female,40,Female,19,None,Minor
+Vandalism,HSR Layout,Other,55,Female,21,Knife,None
+Embezzlement,Indiranagar,Other,36,Female,46,Gun,Major
+Assault,Yelahanka,Other,46,Male,53,Blunt Object,Major
+Drug Offense,Whitefield,Other,54,Other,33,Knife,None
+Robbery,Bellandur,Female,18,Other,60,Gun,Major
+Robbery,Whitefield,Female,54,Female,56,Gun,Major
+Fraud,Kamakshipalya,Other,63,Female,52,Knife,Minor
+Robbery,Whitefield,Male,19,Male,57,None,None
+Theft,Yelahanka,Other,19,Other,45,Knife,Minor
+Forgery,Whitefield,Other,41,Male,29,Knife,Fatal
+Robbery,Indiranagar,Female,42,Male,23,Gun,Fatal
+Drug Offense,Electronic City,Male,37,Male,56,None,Minor
+Vandalism,Bellandur,Female,49,Male,63,None,Major
+Theft,Whitefield,Female,38,Other,24,Blunt Object,Major
+Drug Offense,JP Nagar,Other,60,Male,32,None,Minor
+Vandalism,JP Nagar,Female,19,Female,34,Gun,None
+Assault,Jayanagar,Other,57,Other,37,Gun,Minor
+Robbery,Marathahalli,Female,63,Female,63,None,Minor
+Burglary,Banashankari,Female,52,Male,22,None,Minor
+Fraud,Marathahalli,Other,19,Male,33,Knife,Major
+Robbery,Marathahalli,Male,56,Male,43,Knife,Minor
+Fraud,Koramangala,Other,28,Female,26,Knife,None
+Drug Offense,Electronic City,Female,47,Female,56,Gun,None
+Assault,Whitefield,Male,35,Male,48,Gun,Minor
+Embezzlement,Jayanagar,Other,53,Female,50,Blunt Object,Major
+Fraud,Indiranagar,Male,64,Male,56,Blunt Object,Major
+Forgery,Indiranagar,Male,29,Male,31,Knife,None
+Drug Offense,Kamakshipalya,Male,26,Other,18,Blunt Object,Fatal
+Assault,Kamakshipalya,Other,59,Other,42,None,None
+Assault,Banashankari,Other,56,Female,29,None,Minor
+Drug Offense,Electronic City,Female,42,Female,19,Blunt Object,Major
+Forgery,Koramangala,Other,54,Other,46,None,Minor
+Fraud,Bellandur,Male,29,Male,60,Blunt Object,Minor
+Forgery,Electronic City,Male,50,Other,57,None,Minor
+Drug Offense,Bellandur,Female,31,Female,55,None,Minor
+Assault,Electronic City,Male,36,Female,21,Gun,None
+Assault,Bellandur,Female,53,Male,62,Blunt Object,Major
+Forgery,Jayanagar,Other,50,Female,37,None,Minor
+Robbery,HSR Layout,Male,19,Male,44,Gun,Major
+Theft,Koramangala,Other,65,Female,57,Knife,None
+Embezzlement,Bellandur,Male,43,Male,35,Knife,None
+Robbery,JP Nagar,Female,34,Female,35,Blunt Object,Minor
+Robbery,Yelahanka,Other,58,Male,27,Blunt Object,Major
+Assault,Kamakshipalya,Male,62,Female,45,Blunt Object,Minor
+Theft,JP Nagar,Female,53,Other,44,Gun,Minor
+Forgery,HSR Layout,Other,22,Other,64,Knife,Major
+Theft,Kamakshipalya,Other,21,Male,32,None,Major
+Theft,Koramangala,Male,25,Female,39,Blunt Object,Major
+Forgery,Bellandur,Female,64,Other,22,None,Major
+Embezzlement,Indiranagar,Other,65,Other,21,None,None
+Drug Offense,Electronic City,Male,20,Other,46,Gun,Minor
+Robbery,Jayanagar,Other,62,Female,23,None,Fatal
+Assault,Kamakshipalya,Female,41,Female,34,Gun,Major
+Forgery,Whitefield,Female,45,Other,26,Blunt Object,Minor
+Theft,JP Nagar,Female,49,Female,56,Blunt Object,Fatal
+Vandalism,Whitefield,Other,57,Male,47,None,Fatal
+Robbery,Marathahalli,Other,47,Male,44,None,None
+Forgery,Jayanagar,Other,49,Female,50,Knife,Fatal
+Vandalism,Koramangala,Other,56,Other,19,Knife,None
+Burglary,Jayanagar,Female,45,Male,34,None,Minor
+Burglary,Whitefield,Other,43,Female,34,Blunt Object,None
+Assault,Jayanagar,Other,34,Female,55,Knife,None
+Fraud,Jayanagar,Other,29,Male,50,Blunt Object,Minor
+Theft,Marathahalli,Male,26,Other,22,None,Major
+Forgery,Yelahanka,Male,22,Female,25,Blunt Object,Minor
+Drug Offense,Marathahalli,Female,21,Other,38,None,None
+Assault,Kamakshipalya,Male,48,Male,64,Gun,Minor
+Burglary,JP Nagar,Other,49,Female,60,Gun,Minor
+Vandalism,Yelahanka,Other,61,Female,37,Knife,None
+Assault,Whitefield,Female,62,Other,18,Gun,Major
+Robbery,Electronic City,Female,23,Female,63,Knife,Minor
+Vandalism,HSR Layout,Male,57,Female,54,Blunt Object,None
+Robbery,Bellandur,Other,38,Male,38,None,None
+Assault,Kamakshipalya,Other,22,Female,50,Blunt Object,Minor
+Assault,Banashankari,Other,44,Male,31,None,None
+Embezzlement,Jayanagar,Female,41,Other,43,Blunt Object,Fatal
+Assault,Bellandur,Female,59,Male,46,Blunt Object,Major
+Drug Offense,Electronic City,Male,27,Other,22,Blunt Object,Major
+Theft,Jayanagar,Other,41,Other,42,Blunt Object,Fatal
+Fraud,Koramangala,Other,31,Female,55,Knife,Major
+Drug Offense,Kamakshipalya,Male,23,Other,47,Blunt Object,Fatal
+Burglary,Whitefield,Female,25,Female,44,Blunt Object,Major
+Burglary,Whitefield,Female,25,Female,44,Blunt Object,Major
+Burglary,Whitefield,Female,25,Female,44,Blunt Object,Major
+Drug Offense,Kamakshipalya,Male,23,Other,47,Blunt Object,Fatal
+Burglary,Koramangala,Female,19,Other,61,Blunt Object,Fatal
+Robbery,HSR Layout,Other,22,Female,35,Blunt Object,Major
+Robbery,HSR Layout,Other,22,Female,35,Blunt Object,Major
+Robbery,Bellandur,Other,23,Other,50,Gun,Minor
+Fraud,Koramangala,Male,25,Male,50,None,None
+Fraud,Koramangala,Male,25,Male,50,None,None
+Forgery,Marathahalli,Other,33,Male,61,Gun,Major
+Forgery,Marathahalli,Other,33,Male,61,Gun,Major
+Robbery,Koramangala,Female,21,Male,38,Gun,Major
+Robbery,Koramangala,Female,21,Male,38,Gun,Major
+Fraud,Jayanagar,Other,31,Other,49,Blunt Object,Minor
+Fraud,Jayanagar,Other,31,Other,49,Blunt Object,Minor
+Burglary,HSR Layout,Female,62,Female,46,Blunt Object,Minor
+Theft,Indiranagar,Male,48,Other,53,Knife,Minor
+Robbery,Koramangala,Male,51,Other,64,Blunt Object,Fatal
+Embezzlement,Electronic City,Female,40,Other,39,None,None
+Embezzlement,Banashankari,Male,41,Female,55,Gun,Minor
+Embezzlement,Yelahanka,Female,32,Other,31,Knife,Minor
+Vandalism,HSR Layout,Female,25,Other,28,Gun,Minor
+Assault,Koramangala,Male,47,Female,35,Knife,Fatal
+Forgery,Whitefield,Female,60,Male,49,Knife,None
+Robbery,Koramangala,Other,25,Male,27,Blunt Object,Major
+Robbery,Koramangala,Other,25,Male,27,Blunt Object,Major
+Vandalism,Indiranagar,Other,46,Other,36,Blunt Object,None
+Assault,HSR Layout,Other,23,Male,55,None,None
+Embezzlement,Electronic City,Male,27,Female,22,None,Major
+Embezzlement,Electronic City,Male,27,Female,22,None,Major
+Embezzlement,Koramangala,Other,62,Female,36,Blunt Object,None
+Embezzlement,Koramangala,Other,62,Female,36,Blunt Object,None
+Forgery,HSR Layout,Other,34,Male,41,Gun,Minor
+Vandalism,Jayanagar,Male,27,Other,52,Knife,None
+Vandalism,Jayanagar,Male,27,Other,52,Knife,None
+Embezzlement,Indiranagar,Male,59,Other,47,Knife,Minor
+Drug Offense,Indiranagar,Other,27,Other,37,Blunt Object,None
+Drug Offense,Jayanagar,Other,41,Other,43,Gun,Fatal
+Embezzlement,Yelahanka,Male,26,Female,50,Blunt Object,Fatal
+Robbery,Yelahanka,Female,27,Male,63,None,None
+Theft,HSR Layout,Other,39,Female,48,None,None
+Assault,HSR Layout,Male,51,Male,25,Knife,Fatal
+Assault,Indiranagar,Male,57,Male,33,None,Major
+Theft,JP Nagar,Male,36,Other,32,None,Minor
+Burglary,Bellandur,Other,35,Female,58,None,Minor
+Forgery,JP Nagar,Male,45,Other,59,None,Minor
+Drug Offense,Banashankari,Female,46,Other,37,Gun,Fatal
+Vandalism,HSR Layout,Other,33,Female,65,None,Minor
+Embezzlement,JP Nagar,Male,29,Female,38,Gun,Major
+Embezzlement,JP Nagar,Male,29,Female,38,Gun,Major
+Vandalism,Electronic City,Other,52,Other,44,Knife,Major
+Drug Offense,Kamakshipalya,Male,18,Male,51,Blunt Object,None
+Drug Offense,Kamakshipalya,Male,18,Male,51,Blunt Object,None
+Embezzlement,Indiranagar,Female,45,Other,44,None,Fatal
+Fraud,Yelahanka,Male,51,Female,27,None,Fatal
+Fraud,Yelahanka,Male,51,Female,27,None,Fatal
+Drug Offense,Electronic City,Female,22,Other,65,Gun,Major
+Embezzlement,Electronic City,Female,65,Female,36,Gun,Fatal
+Burglary,Whitefield,Other,27,Other,55,Gun,Fatal
+Embezzlement,JP Nagar,Male,35,Other,36,Blunt Object,None
+Fraud,Yelahanka,Female,34,Male,56,Gun,Fatal
+Forgery,Kamakshipalya,Male,29,Male,61,Blunt Object,Major
+Burglary,Yelahanka,Male,55,Other,20,Gun,None
+Forgery,HSR Layout,Female,53,Other,68,Blunt Object,Minor
+Robbery,Yelahanka,Other,18,Female,26,Gun,Major
+Forgery,Banashankari,Female,33,Female,28,Gun,Fatal
+Assault,HSR Layout,Other,56,Other,38,Blunt Object,Minor
+Robbery,Marathahalli,Other,33,Male,27,None,Major
+Fraud,JP Nagar,Male,57,Female,28,Knife,Major
+Burglary,Bellandur,Other,43,Male,33,None,Fatal

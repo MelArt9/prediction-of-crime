@@ -1,0 +1,2 @@
+date,time_of_day,location,latitude,longitude,victim_gender,victim_age,perpetrator_gender,perpetrator_age,weapon,injury,weather,temperature,previous_activity
+17.06.2026,18:58:57,Indiranagar,12.5488,77.0553,Female,27,Male,32,Knife,Major,Rain,12,None

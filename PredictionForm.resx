@@ -1,0 +1,227 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="label59.Text" xml:space="preserve">
+    <value>Crime Prediction Model — это передовое программное решение, предназначенное 
+для анализа и предсказания типа преступлений на основе данных. Это инструмент, 
+который помогает правоохранительным органам и аналитикам в принятии 
+информированных решений, используя силу машинного обучения и анализа данных.
+
+Основные возможности:
+— Предсказание Типа Преступления: программа анализирует исторические данные 
+и предсказывает тип преступления, что помогает в распределении ресурсов 
+и планировании мер безопасности.
+— Обучение и Переобучение Модели: пользователи могут обучать модель на новых 
+данных, адаптируя её под текущие тренды и изменения в паттернах преступлений.
+— Тестирование Модели: программа предоставляет инструменты для тестирования 
+и оценки эффективности модели.
+
+Разработано:
+Программа разработана студентом 3 курса факультета ПММ 
+направления «Прикладная информатика», стремящегося 
+улучшить эффективность и точность прогнозирования преступлений.
+
+Контакты:
+Для получения дополнительной информации, пожалуйста, свяжитесь 
+с разработчиком по адресу m1lord18@mail.ru.</value>
+  </data>
+  <metadata name="openFileDialog1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <metadata name="saveFileDialog1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>184, 17</value>
+  </metadata>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAEAICAAAAEAIACoEAAAFgAAACgAAAAgAAAAQAAAAAEAIAAAAAAAABAAABx2AAAcdgAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAcFABAOCwAPDQoADw0KAA8NCgATEQoAEQ8KAA8N
+        CgAPDQoADw0KABANCgAEAwMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAEAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAA
+        AAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAQAAAABAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAAArwEBAasAAACpAAAAqwAA
+        AK0AAACtAAAArQAAAK0FBAKtBAMBrQAAAK0AAACtAAAArQAAAK0AAACqAQAAqQAAAKoAAADBAAAAMgAA
+        AAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAsBAQGqAAAA/wkI
+        Bv4iHRb/JiAY/yUfF/8pIhr/GBQO/wAAAP8BAQD/IhwV/ychGf8lHxf/JyAY/x0YEv4DAgH/AAAA9AEB
+        AaQAAAAoAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAAAAAAAA
+        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
+        AAGEAQAhRQJegpSoACmGAkGh/8////////8=
+</value>
+  </data>
+</root>

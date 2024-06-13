@@ -1,0 +1,212 @@
+C:\Users\arkab\Desktop\PCM\PredictionOfCrime\PredictionOfCrime\bin\Debug\PredictionOfCrime.exe.config
+C:\Users\arkab\Desktop\PCM\PredictionOfCrime\PredictionOfCrime\bin\Debug\PredictionOfCrime.exe
+C:\Users\arkab\Desktop\PCM\PredictionOfCrime\PredictionOfCrime\bin\Debug\PredictionOfCrime.pdb
+C:\Users\arkab\Desktop\PCM\PredictionOfCrime\PredictionOfCrime\obj\Debug\PredictionOfCrime.csproj.AssemblyReference.cache
+C:\Users\arkab\Desktop\PCM\PredictionOfCrime\PredictionOfCrime\obj\Debug\PredictionOfCrime.csproj.SuggestedBindingRedirects.cache
+C:\Users\arkab\Desktop\PCM\PredictionOfCrime\PredictionOfCrime\obj\Debug\PredictionOfCrime.Properties.Resources.resources
+C:\Users\arkab\Desktop\PCM\PredictionOfCrime\PredictionOfCrime\obj\Debug\PredictionOfCrime.csproj.GenerateResource.cache
+C:\Users\arkab\Desktop\PCM\PredictionOfCrime\PredictionOfCrime\obj\Debug\PredictionOfCrime.csproj.CoreCompileInputs.cache
+C:\Users\arkab\Desktop\PCM\PredictionOfCrime\PredictionOfCrime\obj\Debug\PredictionOfCrime.exe
+C:\Users\arkab\Desktop\PCM\PredictionOfCrime\PredictionOfCrime\obj\Debug\PredictionOfCrime.pdb
+C:\Users\arkab\Desktop\PCM\PredictionOfCrime\PredictionOfCrime\obj\Debug\PredictionOfCrime.PredictionForm.resources
+C:\Users\arkab\Desktop\PCM\PredictionOfCrime\PredictionOfCrime\bin\Debug\LdaNative.dll
+C:\Users\arkab\Desktop\PCM\PredictionOfCrime\PredictionOfCrime\bin\Debug\CpuMathNative.dll
+C:\Users\arkab\Desktop\PCM\PredictionOfCrime\PredictionOfCrime\bin\Debug\Microsoft.Bcl.Numerics.dll
+C:\Users\arkab\Desktop\PCM\PredictionOfCrime\PredictionOfCrime\bin\Debug\Microsoft.ML.Core.dll
+C:\Users\arkab\Desktop\PCM\PredictionOfCrime\PredictionOfCrime\bin\Debug\Microsoft.ML.CpuMath.dll
+C:\Users\arkab\Desktop\PCM\PredictionOfCrime\PredictionOfCrime\bin\Debug\Microsoft.ML.Data.dll
+C:\Users\arkab\Desktop\PCM\PredictionOfCrime\PredictionOfCrime\bin\Debug\Microsoft.ML.DataView.dll
+C:\Users\arkab\Desktop\PCM\PredictionOfCrime\PredictionOfCrime\bin\Debug\Microsoft.ML.dll
+C:\Users\arkab\Desktop\PCM\PredictionOfCrime\PredictionOfCrime\bin\Debug\Microsoft.ML.KMeansClustering.dll
+C:\Users\arkab\Desktop\PCM\PredictionOfCrime\PredictionOfCrime\bin\Debug\Microsoft.ML.PCA.dll
+C:\Users\arkab\Desktop\PCM\PredictionOfCrime\PredictionOfCrime\bin\Debug\Microsoft.ML.StandardTrainers.dll
+C:\Users\arkab\Desktop\PCM\PredictionOfCrime\PredictionOfCrime\bin\Debug\Microsoft.ML.Transforms.dll
+C:\Users\arkab\Desktop\PCM\PredictionOfCrime\PredictionOfCrime\bin\Debug\Newtonsoft.Json.dll
+C:\Users\arkab\Desktop\PCM\PredictionOfCrime\PredictionOfCrime\bin\Debug\System.Buffers.dll
+C:\Users\arkab\Desktop\PCM\PredictionOfCrime\PredictionOfCrime\bin\Debug\System.CodeDom.dll
+C:\Users\arkab\Desktop\PCM\PredictionOfCrime\PredictionOfCrime\bin\Debug\System.Collections.Immutable.dll
+C:\Users\arkab\Desktop\PCM\PredictionOfCrime\PredictionOfCrime\bin\Debug\System.Memory.dll
+C:\Users\arkab\Desktop\PCM\PredictionOfCrime\PredictionOfCrime\bin\Debug\System.Numerics.Tensors.dll
+C:\Users\arkab\Desktop\PCM\PredictionOfCrime\PredictionOfCrime\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\arkab\Desktop\PCM\PredictionOfCrime\PredictionOfCrime\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\arkab\Desktop\PCM\PredictionOfCrime\PredictionOfCrime\bin\Debug\System.Threading.Channels.dll
+C:\Users\arkab\Desktop\PCM\PredictionOfCrime\PredictionOfCrime\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\arkab\Desktop\PCM\PredictionOfCrime\PredictionOfCrime\bin\Debug\Microsoft.Bcl.Numerics.xml
+C:\Users\arkab\Desktop\PCM\PredictionOfCrime\PredictionOfCrime\bin\Debug\Microsoft.ML.xml
+C:\Users\arkab\Desktop\PCM\PredictionOfCrime\PredictionOfCrime\bin\Debug\Microsoft.ML.Core.xml
+C:\Users\arkab\Desktop\PCM\PredictionOfCrime\PredictionOfCrime\bin\Debug\Microsoft.ML.CpuMath.xml
+C:\Users\arkab\Desktop\PCM\PredictionOfCrime\PredictionOfCrime\bin\Debug\Microsoft.ML.Data.xml
+C:\Users\arkab\Desktop\PCM\PredictionOfCrime\PredictionOfCrime\bin\Debug\Microsoft.ML.DataView.xml
+C:\Users\arkab\Desktop\PCM\PredictionOfCrime\PredictionOfCrime\bin\Debug\Microsoft.ML.KMeansClustering.xml
+C:\Users\arkab\Desktop\PCM\PredictionOfCrime\PredictionOfCrime\bin\Debug\Microsoft.ML.PCA.xml
+C:\Users\arkab\Desktop\PCM\PredictionOfCrime\PredictionOfCrime\bin\Debug\Microsoft.ML.StandardTrainers.xml
+C:\Users\arkab\Desktop\PCM\PredictionOfCrime\PredictionOfCrime\bin\Debug\Microsoft.ML.Transforms.xml
+C:\Users\arkab\Desktop\PCM\PredictionOfCrime\PredictionOfCrime\bin\Debug\Newtonsoft.Json.xml
+C:\Users\arkab\Desktop\PCM\PredictionOfCrime\PredictionOfCrime\bin\Debug\System.Buffers.xml
+C:\Users\arkab\Desktop\PCM\PredictionOfCrime\PredictionOfCrime\bin\Debug\System.Collections.Immutable.xml
+C:\Users\arkab\Desktop\PCM\PredictionOfCrime\PredictionOfCrime\bin\Debug\System.Memory.xml
+C:\Users\arkab\Desktop\PCM\PredictionOfCrime\PredictionOfCrime\bin\Debug\System.Numerics.Tensors.xml
+C:\Users\arkab\Desktop\PCM\PredictionOfCrime\PredictionOfCrime\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\arkab\Desktop\PCM\PredictionOfCrime\PredictionOfCrime\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\arkab\Desktop\PCM\PredictionOfCrime\PredictionOfCrime\bin\Debug\System.Threading.Channels.xml
+C:\Users\arkab\Desktop\PCM\PredictionOfCrime\PredictionOfCrime\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\arkab\Desktop\PCM\PredictionOfCrime\PredictionOfCrime\obj\Debug\PredictionOfCrime.csproj.CopyComplete
+C:\Users\arkab\Desktop\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\LdaNative.dll
+C:\Users\arkab\Desktop\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\CpuMathNative.dll
+C:\Users\arkab\Desktop\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\PredictionOfCrime.exe.config
+C:\Users\arkab\Desktop\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\PredictionOfCrime.exe
+C:\Users\arkab\Desktop\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\PredictionOfCrime.pdb
+C:\Users\arkab\Desktop\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\Microsoft.Bcl.Numerics.dll
+C:\Users\arkab\Desktop\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\Microsoft.ML.Core.dll
+C:\Users\arkab\Desktop\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\Microsoft.ML.CpuMath.dll
+C:\Users\arkab\Desktop\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\Microsoft.ML.Data.dll
+C:\Users\arkab\Desktop\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\Microsoft.ML.DataView.dll
+C:\Users\arkab\Desktop\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\Microsoft.ML.dll
+C:\Users\arkab\Desktop\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\Microsoft.ML.KMeansClustering.dll
+C:\Users\arkab\Desktop\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\Microsoft.ML.PCA.dll
+C:\Users\arkab\Desktop\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\Microsoft.ML.StandardTrainers.dll
+C:\Users\arkab\Desktop\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\Microsoft.ML.Transforms.dll
+C:\Users\arkab\Desktop\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\Newtonsoft.Json.dll
+C:\Users\arkab\Desktop\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\System.Buffers.dll
+C:\Users\arkab\Desktop\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\System.CodeDom.dll
+C:\Users\arkab\Desktop\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\System.Collections.Immutable.dll
+C:\Users\arkab\Desktop\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\System.Memory.dll
+C:\Users\arkab\Desktop\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\System.Numerics.Tensors.dll
+C:\Users\arkab\Desktop\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\arkab\Desktop\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\arkab\Desktop\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\System.Threading.Channels.dll
+C:\Users\arkab\Desktop\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\arkab\Desktop\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\Microsoft.Bcl.Numerics.xml
+C:\Users\arkab\Desktop\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\Microsoft.ML.xml
+C:\Users\arkab\Desktop\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\Microsoft.ML.Core.xml
+C:\Users\arkab\Desktop\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\Microsoft.ML.CpuMath.xml
+C:\Users\arkab\Desktop\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\Microsoft.ML.Data.xml
+C:\Users\arkab\Desktop\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\Microsoft.ML.DataView.xml
+C:\Users\arkab\Desktop\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\Microsoft.ML.KMeansClustering.xml
+C:\Users\arkab\Desktop\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\Microsoft.ML.PCA.xml
+C:\Users\arkab\Desktop\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\Microsoft.ML.StandardTrainers.xml
+C:\Users\arkab\Desktop\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\Microsoft.ML.Transforms.xml
+C:\Users\arkab\Desktop\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\Newtonsoft.Json.xml
+C:\Users\arkab\Desktop\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\System.Buffers.xml
+C:\Users\arkab\Desktop\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\System.Collections.Immutable.xml
+C:\Users\arkab\Desktop\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\System.Memory.xml
+C:\Users\arkab\Desktop\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\System.Numerics.Tensors.xml
+C:\Users\arkab\Desktop\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\arkab\Desktop\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\arkab\Desktop\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\System.Threading.Channels.xml
+C:\Users\arkab\Desktop\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\arkab\Desktop\PCM Visual\PredictionOfCrime\PredictionOfCrime\obj\Debug\PredictionOfCrime.csproj.AssemblyReference.cache
+C:\Users\arkab\Desktop\PCM Visual\PredictionOfCrime\PredictionOfCrime\obj\Debug\PredictionOfCrime.csproj.SuggestedBindingRedirects.cache
+C:\Users\arkab\Desktop\PCM Visual\PredictionOfCrime\PredictionOfCrime\obj\Debug\PredictionOfCrime.PredictionForm.resources
+C:\Users\arkab\Desktop\PCM Visual\PredictionOfCrime\PredictionOfCrime\obj\Debug\PredictionOfCrime.Properties.Resources.resources
+C:\Users\arkab\Desktop\PCM Visual\PredictionOfCrime\PredictionOfCrime\obj\Debug\PredictionOfCrime.csproj.GenerateResource.cache
+C:\Users\arkab\Desktop\PCM Visual\PredictionOfCrime\PredictionOfCrime\obj\Debug\PredictionOfCrime.csproj.CoreCompileInputs.cache
+C:\Users\arkab\Desktop\PCM Visual\PredictionOfCrime\PredictionOfCrime\obj\Debug\PredictionOfCrime.csproj.CopyComplete
+C:\Users\arkab\Desktop\PCM Visual\PredictionOfCrime\PredictionOfCrime\obj\Debug\PredictionOfCrime.exe
+C:\Users\arkab\Desktop\PCM Visual\PredictionOfCrime\PredictionOfCrime\obj\Debug\PredictionOfCrime.pdb
+D:\Папки рабочего стола\Лабораторные\Курсовая 3 год\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\LdaNative.dll
+D:\Папки рабочего стола\Лабораторные\Курсовая 3 год\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\CpuMathNative.dll
+D:\Папки рабочего стола\Лабораторные\Курсовая 3 год\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\PredictionOfCrime.exe.config
+D:\Папки рабочего стола\Лабораторные\Курсовая 3 год\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\PredictionOfCrime.exe
+D:\Папки рабочего стола\Лабораторные\Курсовая 3 год\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\PredictionOfCrime.pdb
+D:\Папки рабочего стола\Лабораторные\Курсовая 3 год\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\Microsoft.Bcl.Numerics.dll
+D:\Папки рабочего стола\Лабораторные\Курсовая 3 год\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\Microsoft.ML.Core.dll
+D:\Папки рабочего стола\Лабораторные\Курсовая 3 год\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\Microsoft.ML.CpuMath.dll
+D:\Папки рабочего стола\Лабораторные\Курсовая 3 год\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\Microsoft.ML.Data.dll
+D:\Папки рабочего стола\Лабораторные\Курсовая 3 год\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\Microsoft.ML.DataView.dll
+D:\Папки рабочего стола\Лабораторные\Курсовая 3 год\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\Microsoft.ML.dll
+D:\Папки рабочего стола\Лабораторные\Курсовая 3 год\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\Microsoft.ML.KMeansClustering.dll
+D:\Папки рабочего стола\Лабораторные\Курсовая 3 год\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\Microsoft.ML.PCA.dll
+D:\Папки рабочего стола\Лабораторные\Курсовая 3 год\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\Microsoft.ML.StandardTrainers.dll
+D:\Папки рабочего стола\Лабораторные\Курсовая 3 год\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\Microsoft.ML.Transforms.dll
+D:\Папки рабочего стола\Лабораторные\Курсовая 3 год\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\Newtonsoft.Json.dll
+D:\Папки рабочего стола\Лабораторные\Курсовая 3 год\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\System.Buffers.dll
+D:\Папки рабочего стола\Лабораторные\Курсовая 3 год\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\System.CodeDom.dll
+D:\Папки рабочего стола\Лабораторные\Курсовая 3 год\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\System.Collections.Immutable.dll
+D:\Папки рабочего стола\Лабораторные\Курсовая 3 год\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\System.Memory.dll
+D:\Папки рабочего стола\Лабораторные\Курсовая 3 год\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\System.Numerics.Tensors.dll
+D:\Папки рабочего стола\Лабораторные\Курсовая 3 год\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\System.Numerics.Vectors.dll
+D:\Папки рабочего стола\Лабораторные\Курсовая 3 год\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Папки рабочего стола\Лабораторные\Курсовая 3 год\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\System.Threading.Channels.dll
+D:\Папки рабочего стола\Лабораторные\Курсовая 3 год\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Папки рабочего стола\Лабораторные\Курсовая 3 год\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\Microsoft.Bcl.Numerics.xml
+D:\Папки рабочего стола\Лабораторные\Курсовая 3 год\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\Microsoft.ML.xml
+D:\Папки рабочего стола\Лабораторные\Курсовая 3 год\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\Microsoft.ML.Core.xml
+D:\Папки рабочего стола\Лабораторные\Курсовая 3 год\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\Microsoft.ML.CpuMath.xml
+D:\Папки рабочего стола\Лабораторные\Курсовая 3 год\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\Microsoft.ML.Data.xml
+D:\Папки рабочего стола\Лабораторные\Курсовая 3 год\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\Microsoft.ML.DataView.xml
+D:\Папки рабочего стола\Лабораторные\Курсовая 3 год\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\Microsoft.ML.KMeansClustering.xml
+D:\Папки рабочего стола\Лабораторные\Курсовая 3 год\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\Microsoft.ML.PCA.xml
+D:\Папки рабочего стола\Лабораторные\Курсовая 3 год\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\Microsoft.ML.StandardTrainers.xml
+D:\Папки рабочего стола\Лабораторные\Курсовая 3 год\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\Microsoft.ML.Transforms.xml
+D:\Папки рабочего стола\Лабораторные\Курсовая 3 год\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\Newtonsoft.Json.xml
+D:\Папки рабочего стола\Лабораторные\Курсовая 3 год\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\System.Buffers.xml
+D:\Папки рабочего стола\Лабораторные\Курсовая 3 год\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\System.Collections.Immutable.xml
+D:\Папки рабочего стола\Лабораторные\Курсовая 3 год\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\System.Memory.xml
+D:\Папки рабочего стола\Лабораторные\Курсовая 3 год\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\System.Numerics.Tensors.xml
+D:\Папки рабочего стола\Лабораторные\Курсовая 3 год\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\System.Numerics.Vectors.xml
+D:\Папки рабочего стола\Лабораторные\Курсовая 3 год\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Папки рабочего стола\Лабораторные\Курсовая 3 год\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\System.Threading.Channels.xml
+D:\Папки рабочего стола\Лабораторные\Курсовая 3 год\PCM Visual\PredictionOfCrime\PredictionOfCrime\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Папки рабочего стола\Лабораторные\Курсовая 3 год\PCM Visual\PredictionOfCrime\PredictionOfCrime\obj\Debug\PredictionOfCrime.csproj.AssemblyReference.cache
+D:\Папки рабочего стола\Лабораторные\Курсовая 3 год\PCM Visual\PredictionOfCrime\PredictionOfCrime\obj\Debug\PredictionOfCrime.csproj.SuggestedBindingRedirects.cache
+D:\Папки рабочего стола\Лабораторные\Курсовая 3 год\PCM Visual\PredictionOfCrime\PredictionOfCrime\obj\Debug\PredictionOfCrime.PredictionForm.resources
+D:\Папки рабочего стола\Лабораторные\Курсовая 3 год\PCM Visual\PredictionOfCrime\PredictionOfCrime\obj\Debug\PredictionOfCrime.Properties.Resources.resources
+D:\Папки рабочего стола\Лабораторные\Курсовая 3 год\PCM Visual\PredictionOfCrime\PredictionOfCrime\obj\Debug\PredictionOfCrime.csproj.GenerateResource.cache
+D:\Папки рабочего стола\Лабораторные\Курсовая 3 год\PCM Visual\PredictionOfCrime\PredictionOfCrime\obj\Debug\PredictionOfCrime.csproj.CoreCompileInputs.cache
+D:\Папки рабочего стола\Лабораторные\Курсовая 3 год\PCM Visual\PredictionOfCrime\PredictionOfCrime\obj\Debug\PredictionOfCrime.csproj.CopyComplete
+D:\Папки рабочего стола\Лабораторные\Курсовая 3 год\PCM Visual\PredictionOfCrime\PredictionOfCrime\obj\Debug\PredictionOfCrime.exe
+D:\Папки рабочего стола\Лабораторные\Курсовая 3 год\PCM Visual\PredictionOfCrime\PredictionOfCrime\obj\Debug\PredictionOfCrime.pdb
+C:\Users\arkab\Desktop\PredictionOfCrime\PredictionOfCrime\bin\Debug\LdaNative.dll
+C:\Users\arkab\Desktop\PredictionOfCrime\PredictionOfCrime\bin\Debug\CpuMathNative.dll
+C:\Users\arkab\Desktop\PredictionOfCrime\PredictionOfCrime\bin\Debug\PredictionOfCrime.exe.config
+C:\Users\arkab\Desktop\PredictionOfCrime\PredictionOfCrime\bin\Debug\PredictionOfCrime.exe
+C:\Users\arkab\Desktop\PredictionOfCrime\PredictionOfCrime\bin\Debug\PredictionOfCrime.pdb
+C:\Users\arkab\Desktop\PredictionOfCrime\PredictionOfCrime\bin\Debug\Microsoft.Bcl.Numerics.dll
+C:\Users\arkab\Desktop\PredictionOfCrime\PredictionOfCrime\bin\Debug\Microsoft.ML.Core.dll
+C:\Users\arkab\Desktop\PredictionOfCrime\PredictionOfCrime\bin\Debug\Microsoft.ML.CpuMath.dll
+C:\Users\arkab\Desktop\PredictionOfCrime\PredictionOfCrime\bin\Debug\Microsoft.ML.Data.dll
+C:\Users\arkab\Desktop\PredictionOfCrime\PredictionOfCrime\bin\Debug\Microsoft.ML.DataView.dll
+C:\Users\arkab\Desktop\PredictionOfCrime\PredictionOfCrime\bin\Debug\Microsoft.ML.dll
+C:\Users\arkab\Desktop\PredictionOfCrime\PredictionOfCrime\bin\Debug\Microsoft.ML.KMeansClustering.dll
+C:\Users\arkab\Desktop\PredictionOfCrime\PredictionOfCrime\bin\Debug\Microsoft.ML.PCA.dll
+C:\Users\arkab\Desktop\PredictionOfCrime\PredictionOfCrime\bin\Debug\Microsoft.ML.StandardTrainers.dll
+C:\Users\arkab\Desktop\PredictionOfCrime\PredictionOfCrime\bin\Debug\Microsoft.ML.Transforms.dll
+C:\Users\arkab\Desktop\PredictionOfCrime\PredictionOfCrime\bin\Debug\Newtonsoft.Json.dll
+C:\Users\arkab\Desktop\PredictionOfCrime\PredictionOfCrime\bin\Debug\System.Buffers.dll
+C:\Users\arkab\Desktop\PredictionOfCrime\PredictionOfCrime\bin\Debug\System.CodeDom.dll
+C:\Users\arkab\Desktop\PredictionOfCrime\PredictionOfCrime\bin\Debug\System.Collections.Immutable.dll
+C:\Users\arkab\Desktop\PredictionOfCrime\PredictionOfCrime\bin\Debug\System.Memory.dll
+C:\Users\arkab\Desktop\PredictionOfCrime\PredictionOfCrime\bin\Debug\System.Numerics.Tensors.dll
+C:\Users\arkab\Desktop\PredictionOfCrime\PredictionOfCrime\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\arkab\Desktop\PredictionOfCrime\PredictionOfCrime\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\arkab\Desktop\PredictionOfCrime\PredictionOfCrime\bin\Debug\System.Threading.Channels.dll
+C:\Users\arkab\Desktop\PredictionOfCrime\PredictionOfCrime\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\arkab\Desktop\PredictionOfCrime\PredictionOfCrime\bin\Debug\Microsoft.Bcl.Numerics.xml
+C:\Users\arkab\Desktop\PredictionOfCrime\PredictionOfCrime\bin\Debug\Microsoft.ML.xml
+C:\Users\arkab\Desktop\PredictionOfCrime\PredictionOfCrime\bin\Debug\Microsoft.ML.Core.xml
+C:\Users\arkab\Desktop\PredictionOfCrime\PredictionOfCrime\bin\Debug\Microsoft.ML.CpuMath.xml
+C:\Users\arkab\Desktop\PredictionOfCrime\PredictionOfCrime\bin\Debug\Microsoft.ML.Data.xml
+C:\Users\arkab\Desktop\PredictionOfCrime\PredictionOfCrime\bin\Debug\Microsoft.ML.DataView.xml
+C:\Users\arkab\Desktop\PredictionOfCrime\PredictionOfCrime\bin\Debug\Microsoft.ML.KMeansClustering.xml
+C:\Users\arkab\Desktop\PredictionOfCrime\PredictionOfCrime\bin\Debug\Microsoft.ML.PCA.xml
+C:\Users\arkab\Desktop\PredictionOfCrime\PredictionOfCrime\bin\Debug\Microsoft.ML.StandardTrainers.xml
+C:\Users\arkab\Desktop\PredictionOfCrime\PredictionOfCrime\bin\Debug\Microsoft.ML.Transforms.xml
+C:\Users\arkab\Desktop\PredictionOfCrime\PredictionOfCrime\bin\Debug\Newtonsoft.Json.xml
+C:\Users\arkab\Desktop\PredictionOfCrime\PredictionOfCrime\bin\Debug\System.Buffers.xml
+C:\Users\arkab\Desktop\PredictionOfCrime\PredictionOfCrime\bin\Debug\System.Collections.Immutable.xml
+C:\Users\arkab\Desktop\PredictionOfCrime\PredictionOfCrime\bin\Debug\System.Memory.xml
+C:\Users\arkab\Desktop\PredictionOfCrime\PredictionOfCrime\bin\Debug\System.Numerics.Tensors.xml
+C:\Users\arkab\Desktop\PredictionOfCrime\PredictionOfCrime\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\arkab\Desktop\PredictionOfCrime\PredictionOfCrime\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\arkab\Desktop\PredictionOfCrime\PredictionOfCrime\bin\Debug\System.Threading.Channels.xml
+C:\Users\arkab\Desktop\PredictionOfCrime\PredictionOfCrime\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\arkab\Desktop\PredictionOfCrime\PredictionOfCrime\obj\Debug\PredictionOfCrime.csproj.AssemblyReference.cache
+C:\Users\arkab\Desktop\PredictionOfCrime\PredictionOfCrime\obj\Debug\PredictionOfCrime.csproj.SuggestedBindingRedirects.cache
+C:\Users\arkab\Desktop\PredictionOfCrime\PredictionOfCrime\obj\Debug\PredictionOfCrime.PredictionForm.resources
+C:\Users\arkab\Desktop\PredictionOfCrime\PredictionOfCrime\obj\Debug\PredictionOfCrime.Properties.Resources.resources
+C:\Users\arkab\Desktop\PredictionOfCrime\PredictionOfCrime\obj\Debug\PredictionOfCrime.csproj.GenerateResource.cache
+C:\Users\arkab\Desktop\PredictionOfCrime\PredictionOfCrime\obj\Debug\PredictionOfCrime.csproj.CoreCompileInputs.cache
+C:\Users\arkab\Desktop\PredictionOfCrime\PredictionOfCrime\obj\Debug\PredictionOfCrime.csproj.CopyComplete
+C:\Users\arkab\Desktop\PredictionOfCrime\PredictionOfCrime\obj\Debug\PredictionOfCrime.exe
+C:\Users\arkab\Desktop\PredictionOfCrime\PredictionOfCrime\obj\Debug\PredictionOfCrime.pdb
